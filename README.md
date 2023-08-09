@@ -1,5 +1,5 @@
 
-  <h1>Data Visualization: <br>What Are People in Russia Searching on Google?</h1>
+<h1>Data Visualization: <br>What Are People in Russia Searching on Google?</h1>
 <p>Author: Nicole Golden<br> Date: March 18, 2022 </p>
         
 <p class="lead">
